@@ -7,5 +7,5 @@ if __name__ == '__main__':
 
 @app.route('/')
 def home():     
-    return "<p>Hello world!</p>"
+    return "<p>Dit is mijn eerste site met Flask.</p>"
 
